@@ -1,0 +1,61 @@
+{
+    "tableData": [
+      {
+        "YEAR": "II",
+        "SEMESTER": "II",
+        "CLASS_INCHARGE_NAME": "Mrs.P.Shyamala ",
+        "SECTION": "ALPHA",
+        "CONTACT_NO": "9894965756"
+      },
+      {
+        "YEAR": "II",
+        "SEMESTER": "II",
+        "CLASS_INCHARGE_NAME": "Mrs.Sowmya Saraf",
+        "SECTION": "BETA",
+        "CONTACT_NO": "9701260289"
+      },
+      {
+        "YEAR": "II",
+        "SEMESTER": "II",
+        "CLASS_INCHARGE_NAME": "Mrs.S.Monika",
+        "SECTION": "GEMMA",
+        "CONTACT_NO": "9566841184"
+      },
+      {
+        "YEAR": "II",
+        "SEMESTER": "II",
+        "CLASS_INCHARGE_NAME": "r.M.Santhosh Kumar",
+        "SECTION": "DELTA",
+        "CONTACT_NO": "9701723629"
+      },
+      {
+        "YEAR": "II",
+        "SEMESTER": "II",
+        "CLASS_INCHARGE_NAME": "Mrs.P.Sabitha",
+        "SECTION": "SIGMA",
+        "CONTACT_NO": "8008463700"
+      },
+      {
+        "YEAR": "II",
+        "SEMESTER": "II",
+        "CLASS_INCHARGE_NAME": "Mr.G.Raju ",
+        "SECTION": "OMEGA",
+        "CONTACT_NO": "9640051898"
+      },
+      {
+        "YEAR": "II",
+        "SEMESTER": "II",
+        "CLASS_INCHARGE_NAME": "Mrs.D.Suneetha",
+        "SECTION": "ZETA",
+        "CONTACT_NO": "7702976749"
+      },
+      {
+        "YEAR": "II",
+        "SEMESTER": "II",
+        "CLASS_INCHARGE_NAME": "Mr.Naveena Kumar",
+        "SECTION": "EPSILON",
+        "CONTACT_NO": "9951414245 "
+      }
+    ]
+  }
+  
